@@ -33,7 +33,7 @@ I'm passionate about transforming raw data into meaningful insights and continuo
 
 ### 📫 Connect With Me
 - LinkedIn: Your LinkedIn Profile
-- Email: your.email@example.com
+- Email: srikanthmanju027@gmail.com
 
 ---
 ⭐ Always learning, building, and growing in the world of data.
