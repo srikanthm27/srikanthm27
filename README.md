@@ -32,7 +32,7 @@ I'm passionate about transforming raw data into meaningful insights and continuo
 - Machine Learning Mini Projects
 
 ### 📫 Connect With Me
-- LinkedIn: Your LinkedIn Profile
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/srikanthm27/)
 - Email: srikanthmanju027@gmail.com
 
 ---
